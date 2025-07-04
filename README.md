@@ -310,19 +310,19 @@ EXPOSE 80
 
 ## 📝 Changelog
 
-### v2.0.0 (2025-07-04)
+### v2.0.0 
 - ✨ JIRA entegrasyonu eklendi
 - 🎨 Dark theme iyileştirmeleri
 - 🔧 Bulk test operations
 - 📊 Gelişmiş raporlama sistemi
 
-### v1.5.0 (2025-06-15)
+### v1.5.0 
 - 🚀 Playwright entegrasyonu
 - 📋 Manuel test yönetimi
 - 🔄 Regresyon testleri
 - 📈 Dashboard metrikleri
 
-### v1.0.0 (2025-05-01)
+### v1.0.0 
 - 🎉 İlk sürüm yayınlandı
 - 📝 Temel test yönetimi
 - 🎯 Proje yükleme sistemi
